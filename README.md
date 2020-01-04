@@ -1,4 +1,4 @@
-# Data-Structure-Java-Implementation
+# Data-Structure
 Data Structure is way of organizing data so that we can perform operation on these data in an effective way.
 
 # Physical Data Structure
