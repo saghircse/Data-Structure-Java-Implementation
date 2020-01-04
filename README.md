@@ -1,4 +1,4 @@
-# Data-Structure
+# Data Structure
 Data Structure is a way of organizing data so that we can perform operation on these data in an effective way.
 
 # Physical Data Structure
