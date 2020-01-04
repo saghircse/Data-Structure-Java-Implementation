@@ -1,5 +1,5 @@
 # Data-Structure
-Data Structure is way of organizing data so that we can perform operation on these data in an effective way.
+Data Structure is a way of organizing data so that we can perform operation on these data in an effective way.
 
 # Physical Data Structure
 1. Array
