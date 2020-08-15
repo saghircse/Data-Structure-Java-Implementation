@@ -5,7 +5,7 @@ package com.sh.dsa.array;
 public class DynamicArray <T> implements Iterable<T>{
 
 	private T[] arr;
-	private int len=0;			// length user thinks array is
+	private int len=0;		// Number of elements in the array
 	private int capacity =0;	// Actual array size
 	
 	public DynamicArray() {
@@ -186,56 +186,5 @@ public class DynamicArray <T> implements Iterable<T>{
 			}
 			return sb.toString();
 		}
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }
